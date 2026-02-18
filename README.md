@@ -1,4 +1,4 @@
-# Data Encryption and Decryption Tool
+# Data Encryption and Decryption Tools
 
 This is a web-based tool that allows users to encrypt and decrypt text data using AES encryption provided by the CryptoJS library. The tool features a modern and user-friendly interface with light and dark mode support, enhancing usability and visual appeal.
 
