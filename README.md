@@ -60,5 +60,5 @@ Feel free to customize and enhance this tool further to suit your needs.
 You can clone the repository using the following command:
 
 ```
-git clone https://github.com/SMNpuneeth/Data-Encryption-and-Decryption-Tool
+git clone https://github.com/himeshjain881-coder/Data-Encryption-and-Decryption-Tool
 ```
